@@ -1,0 +1,14 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "0.1.0",
+  "description": "Rock Paper Scissors terminal game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abigail Robinson",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
